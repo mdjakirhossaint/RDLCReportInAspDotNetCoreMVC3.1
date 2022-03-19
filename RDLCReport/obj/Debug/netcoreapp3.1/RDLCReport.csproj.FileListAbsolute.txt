@@ -1,0 +1,16 @@
+E:\Software Development\RDLCReportInAspdotNetCoreMVC3dot1\RDLCReport\bin\Debug\netcoreapp3.1\RDLCReport.exe
+E:\Software Development\RDLCReportInAspdotNetCoreMVC3dot1\RDLCReport\bin\Debug\netcoreapp3.1\RDLCReport.deps.json
+E:\Software Development\RDLCReportInAspdotNetCoreMVC3dot1\RDLCReport\bin\Debug\netcoreapp3.1\RDLCReport.runtimeconfig.json
+E:\Software Development\RDLCReportInAspdotNetCoreMVC3dot1\RDLCReport\bin\Debug\netcoreapp3.1\RDLCReport.runtimeconfig.dev.json
+E:\Software Development\RDLCReportInAspdotNetCoreMVC3dot1\RDLCReport\bin\Debug\netcoreapp3.1\RDLCReport.dll
+E:\Software Development\RDLCReportInAspdotNetCoreMVC3dot1\RDLCReport\bin\Debug\netcoreapp3.1\RDLCReport.pdb
+E:\Software Development\RDLCReportInAspdotNetCoreMVC3dot1\RDLCReport\obj\Debug\netcoreapp3.1\RDLCReport.csproj.AssemblyReference.cache
+E:\Software Development\RDLCReportInAspdotNetCoreMVC3dot1\RDLCReport\obj\Debug\netcoreapp3.1\RDLCReport.Form1.resources
+E:\Software Development\RDLCReportInAspdotNetCoreMVC3dot1\RDLCReport\obj\Debug\netcoreapp3.1\RDLCReport.csproj.GenerateResource.cache
+E:\Software Development\RDLCReportInAspdotNetCoreMVC3dot1\RDLCReport\obj\Debug\netcoreapp3.1\RDLCReport.GeneratedMSBuildEditorConfig.editorconfig
+E:\Software Development\RDLCReportInAspdotNetCoreMVC3dot1\RDLCReport\obj\Debug\netcoreapp3.1\RDLCReport.AssemblyInfoInputs.cache
+E:\Software Development\RDLCReportInAspdotNetCoreMVC3dot1\RDLCReport\obj\Debug\netcoreapp3.1\RDLCReport.AssemblyInfo.cs
+E:\Software Development\RDLCReportInAspdotNetCoreMVC3dot1\RDLCReport\obj\Debug\netcoreapp3.1\RDLCReport.csproj.CoreCompileInputs.cache
+E:\Software Development\RDLCReportInAspdotNetCoreMVC3dot1\RDLCReport\obj\Debug\netcoreapp3.1\RDLCReport.dll
+E:\Software Development\RDLCReportInAspdotNetCoreMVC3dot1\RDLCReport\obj\Debug\netcoreapp3.1\RDLCReport.pdb
+E:\Software Development\RDLCReportInAspdotNetCoreMVC3dot1\RDLCReport\obj\Debug\netcoreapp3.1\RDLCReport.genruntimeconfig.cache
